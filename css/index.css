@@ -41,3 +41,13 @@ body {
     font-size: 4em;
     text-align: center;
 }
+
+.underText {
+    color: rgb(204, 204, 204);
+
+    margin: 0px;
+    margin-top: -0.5em;
+
+    font-size: 2em;
+    text-align: right;
+}
