@@ -60,7 +60,8 @@ body {
     height: 5%;
     margin: 0px;
 
-    text-align: left;
+    display: flex;
+    justify-content: space-between;
 
     font-family: 'Bebas Neue';
 }
@@ -68,4 +69,9 @@ body {
 .footer p {
     margin: 0px;
     margin-left: 2px;
+}
+
+.defImage {
+    height: auto;
+    width: auto;
 }
