@@ -32,6 +32,11 @@ body {
 
     font-size: 2em;
     text-align: left;
+
+    transition: color 0.8s ease-in-out;
+}
+.overText:hover {
+    color: rgb(233, 128, 31);
 }
 
 .centerText {
@@ -41,6 +46,11 @@ body {
 
     font-size: 4em;
     text-align: center;
+
+    transition: color 0.8s ease-in-out;
+}
+.centerText:hover {
+    color: rgb(44, 31, 233);
 }
 
 .underText {
@@ -51,6 +61,11 @@ body {
 
     font-size: 2em;
     text-align: right;
+
+    transition: color 0.8s ease-in-out;
+}
+.underText:hover {
+    color: rgb(233, 128, 31);
 }
 
 .footer {
